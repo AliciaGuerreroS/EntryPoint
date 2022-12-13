@@ -1,1 +1,3 @@
 # EntryPoint
+
+Ejercicio interesante para poder aplicarlo en las creaciones de App, importando documentos...
